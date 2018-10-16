@@ -7,8 +7,8 @@ This dricotry contains different data analyse project.<br>
 <br>
 
 <h1>'smoking_medical_cost'</h1>
-Topic1: Is smoking a factor to increase medical costs? <br>
-话题1： 吸烟是否是增加医药费的一个原因？<br>
+Topic: Is smoking a factor to increase medical costs? <br>
+话题：吸烟是否是增加医药费的一个原因？<br>
 
 
 
